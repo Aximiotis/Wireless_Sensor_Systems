@@ -56,7 +56,7 @@ The operational flow follows these steps:
 5.  **Decision Making:** Node B receives the data packet. Based on the color value, it determines the correct sorting angle (e.g., red = 0°, green = 30°, blue = 60°).
 6.  **Sorting:** As the object reaches the end of the line, Node B commands the second servo motor to move to the calculated angle. The servo's attached arm then diverts the object into its designated collection area.
 
-This division of labor ensures that the sensing process is not interrupted by the motor control logic, creating a more robust and modular system.
+For more detailed information, please see the project report: **[Εφαρμογές_Τηλεπικοινωνιακών_Διατάξεων_10622_10739_10718_10745.pdf](./Εφαρμογές_Τηλεπικοινωνιακών_Διατάξεων_10622_10739_10718_10745.pdf)**
 
 ---
 
