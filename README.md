@@ -13,11 +13,11 @@ The system uses a two-node wireless architecture with two Arduino boards communi
 The primary goal is to create a functional production line prototype that can automatically identify an object placed at the start of a conveyor belt via different parameters and sort it into a specific path at the end of the line.
 
 ---
-## Authors
-Dimitris Axiomiotis
-Vasileios Koudounis
-Nikos Toulkeridis
-Amalia
+## ⌨️ Authors
+* Dimitris Axiomiotis - @Aximiotis
+* Vasileios Koudounis - @Vasileios-Koudounis
+* Amalia Konstantinou - @amaliaks123
+* Nikos Toulkeridis   - @ntoylker
 
 ---
 
