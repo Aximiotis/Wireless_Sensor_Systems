@@ -57,3 +57,12 @@ The operational flow follows these steps:
 6.  **Sorting:** As the object reaches the end of the line, Node B commands the second servo motor to move to the calculated angle. The servo's attached arm then diverts the object into its designated collection area.
 
 This division of labor ensures that the sensing process is not interrupted by the motor control logic, creating a more robust and modular system.
+
+---
+
+## 🎥 Project Showcase
+
+Watch the videos below to see the project in action and get a detailed look at the setup.
+
+* **[Video 1: Live Demonstration](https://youtu.be/xZcWGIzit1Y?si=HnmxsBM_TOrXAp0Y)**: A complete run-through of the system sorting objects by color.
+* **[Video 2: Sketch](https://www.youtube.com/shorts/ypAJ1u6CufI)**: A funny advertising youtube short.
